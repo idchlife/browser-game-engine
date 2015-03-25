@@ -1,7 +1,7 @@
 # browser-game-engine
 Some sort of browser game engine
 
-Alright, after you cloned repo, all you need to get this started is:
+Alright, after you cloned repo, all you need to get this started:
 
 - cd scripts/app
 - npm install
