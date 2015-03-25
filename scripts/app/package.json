@@ -1,0 +1,20 @@
+{
+  "name": "pathfinding",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "babel-core": "~4.7.9",
+    "babel-loader": "~4.1.0",
+    "eventemitter2": "~0.4.14",
+    "json-loader": "~0.5.1",
+    "raw-loader": "~0.5.1",
+    "webpack": "~1.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
